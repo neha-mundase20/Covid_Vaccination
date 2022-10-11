@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid Vaccination</string>
+    <string name="button_name">SEARCH FOR VACCINES</string>
+    <string name="country1_description">INDIA-COVAXIN</string>
+    <string name="country2_description">RUSSIA-SPUTNIK</string>
+    <string name="country3_description">UNITED KINGDOM(UK)-PFIZER</string>
+    <string name="country4_description">KOREA-NOVAVAX</string>
+
+</resources>
